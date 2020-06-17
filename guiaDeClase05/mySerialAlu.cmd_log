@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.xst" -ofn "/home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 mySerialAlu.ngc mySerialAlu.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o mySerialAlu_map.ncd mySerialAlu.ngd mySerialAlu.pcf 

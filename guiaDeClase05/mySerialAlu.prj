@@ -1,0 +1,4 @@
+vhdl work "myUartTx.vhd"
+vhdl work "myUartRx.vhd"
+vhdl work "myUart.vhd"
+vhdl work "mySerialAlu.vhd"

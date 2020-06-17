@@ -1,0 +1,48 @@
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date:    10:49:04 07/12/2018 
+-- Design Name: 
+-- Module Name:    paridadPar4 - Behavioral 
+-- Project Name: 
+-- Target Devices: 
+-- Tool versions: 
+-- Description: 
+--
+-- Dependencies: 
+--
+-- Revision: 
+-- Revision 0.01 - File Created
+-- Additional Comments: 
+--
+----------------------------------------------------------------------------------
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+-- Uncomment the following library declaration if using
+-- arithmetic functions with Signed or Unsigned values
+--use IEEE.NUMERIC_STD.ALL;
+
+-- Uncomment the following library declaration if instantiating
+-- any Xilinx primitives in this code.
+--library UNISIM;
+--use UNISIM.VComponents.all;
+
+entity paridadPar4 is
+	port(
+		a: in std_logic_vector (3 downto 0);
+		p: out std_logic);
+
+end paridadPar4;
+
+architecture Behavioral of paridadPar4 is
+
+begin
+
+	p <= a(3) xor a(2) xor a(1) xor a(0);
+
+end Behavioral;
+
+
+

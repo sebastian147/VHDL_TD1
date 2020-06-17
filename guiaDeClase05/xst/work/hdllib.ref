@@ -1,0 +1,8 @@
+AR myuarttx behavioral /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartTx.vhd sub00/vhpl03 1545309653
+EN myuartrx NULL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartRx.vhd sub00/vhpl00 1545309650
+EN myuarttx NULL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartTx.vhd sub00/vhpl02 1545309652
+AR myuart behavioral /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUart.vhd sub00/vhpl05 1545309655
+EN myserialalu NULL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.vhd sub00/vhpl06 1545309656
+AR myuartrx behavioral /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartRx.vhd sub00/vhpl01 1545309651
+EN myuart NULL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUart.vhd sub00/vhpl04 1545309654
+AR myserialalu behavioral /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.vhd sub00/vhpl07 1545309657

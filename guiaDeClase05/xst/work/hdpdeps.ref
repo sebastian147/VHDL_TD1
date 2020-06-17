@@ -1,0 +1,30 @@
+V3 12
+FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.vhd 2018/12/20.09:30:35 P.20131013
+EN work/mySerialAlu 1545309656 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/mySerialAlu/Behavioral 1545309657 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/mySerialAlu.vhd \
+      EN work/mySerialAlu 1545309656 AR work/myUart/Behavioral 1545309655
+FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUart.vhd 2018/11/29.02:42:49 P.20131013
+EN work/myUart 1545309654 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUart.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/myUart/Behavioral 1545309655 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUart.vhd \
+      EN work/myUart 1545309654 AR work/myUartRx/Behavioral 1545309651 \
+      AR work/myUartTx/Behavioral 1545309653
+FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartRx.vhd 2018/12/19.22:10:34 P.20131013
+EN work/myUartRx 1545309650 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartRx.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/myUartRx/Behavioral 1545309651 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartRx.vhd \
+      EN work/myUartRx 1545309650
+FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartTx.vhd 2018/12/19.22:08:59 P.20131013
+EN work/myUartTx 1545309652 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartTx.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/myUartTx/Behavioral 1545309653 \
+      FL /home/seba/Documentos/Utn/Digitales/sdopazo/guiaDeClase05/myUartTx.vhd \
+      EN work/myUartTx 1545309652
